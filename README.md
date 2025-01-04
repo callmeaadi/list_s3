@@ -11,6 +11,9 @@
 4. Python boto3
 
 
-# Deploy using Terraform:
+# Deploy using Terraform (Kindly follow the below video link):
+https://drive.google.com/file/d/1vQ41Z8x3UgCRsbGBNnef7yOs0EVhbVws/view?usp=sharing
 
 
+# Delete Resources using Terraform (Kindly follow the below video link):
+https://drive.google.com/file/d/1N-WfnjTu3hkRZmTdWoJDAjvDJh38D1j4/view?usp=sharing
