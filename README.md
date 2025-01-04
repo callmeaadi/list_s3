@@ -15,6 +15,27 @@
 2. Serverless
 3. Cost Optimized
 
+# Required Terraform Variables (variables.tf):
+   variable "function_name" {
+    default = "<your-function-name>" 
+   }
+   
+   variable "bucket_name" {
+    default = "<your-bucket-name>"
+   }
+   
+   variable "access_key" {
+    default = "<your-access-key>"
+   }
+   
+   variable "secret_key" {
+    default = "<your-secret-key>"
+   }
+   
+   variable "region" {
+    default = "ap-south-1"
+   }
+
 # Deploy using Terraform (Kindly follow the below video link):
 https://drive.google.com/file/d/1vQ41Z8x3UgCRsbGBNnef7yOs0EVhbVws/view?usp=sharing
 
