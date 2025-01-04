@@ -25,6 +25,7 @@ https://drive.google.com/file/d/1N-WfnjTu3hkRZmTdWoJDAjvDJh38D1j4/view?usp=shari
 
 # Screenshots:
 1. # Terraform
+   <img width="1428" alt="image" src="https://github.com/user-attachments/assets/59a6a7ca-cd89-4768-bd95-a6e75b9c923b" />
    <img width="1422" alt="image" src="https://github.com/user-attachments/assets/2560ff5c-4513-45d5-a0d1-eae792ecd102" />
    
 3. # S3
