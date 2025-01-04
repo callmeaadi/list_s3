@@ -6,7 +6,7 @@ Architecture:
 
 
 Tools Used:
-Terraform 
-AWS Lambda
-AWS S3
-Python boto3
+1. Terraform 
+2. AWS Lambda
+3. AWS S3
+4. Python boto3
