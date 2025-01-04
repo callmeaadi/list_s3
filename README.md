@@ -1,4 +1,5 @@
 # Architecture:
+Here we are using AWS functional url to access S3 bucket using python boto3. It is compatible with error handling also like bucket or path not exist then it will create an exceptional and send the response to the user like "bucket does not exist or path not found". Using of the terraform to create AWS Lambda, S3, all the required permissions.
 
 ![image](https://github.com/user-attachments/assets/6969b951-0e63-4e07-83b5-0db469203ea1)
 
