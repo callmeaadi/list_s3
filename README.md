@@ -10,6 +10,10 @@
 3. AWS S3
 4. Python boto3
 
+# Features:
+1. Error Handling
+2. Serverless
+3. Cost Optimized
 
 # Deploy using Terraform (Kindly follow the below video link):
 https://drive.google.com/file/d/1vQ41Z8x3UgCRsbGBNnef7yOs0EVhbVws/view?usp=sharing
